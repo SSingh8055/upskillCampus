@@ -1,1 +1,1 @@
-# upskillCampus
+The proposed design of the Automatic Street Light Control System offers a practical and efficient solution for managing street lighting in urban environments. By leveraging sensor-based automation and intelligent control algorithms, the system effectively addresses the shortcomings of traditional street lighting systems, contributing to energy conservation, operational efficiency, and environmental sustainability.
